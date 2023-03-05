@@ -1,6 +1,6 @@
 # Algorithimic Analysis
 
-This is a short project completed in ICS4U under Mr. Marco Arsenault, which aims to provide a complete runtime breakdown of sorting/searching algorithms.
+This is a short assignment completed in ICS4U under Mr. Marco Arsenault, which aims to provide a complete runtime breakdown of sorting/searching algorithms.
 
 ## Program Details:
 
