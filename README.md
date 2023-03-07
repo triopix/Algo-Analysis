@@ -18,7 +18,7 @@ Timing uses System.nanoTime(); which gives the most accurate timing prespective 
 
 In the excel sheet provided, there are runtimes noted which contain the averages as well.
 
-- ##  ** There are images of the graphs of average times to objects as well for each algorithm  ** ##
+## There are images of the graphs of average times to objects as well for each algorithm ##
 
 * Plotting these average runtimes to the objects, will give us the time complexity graphs.
 
